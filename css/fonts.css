@@ -1,0 +1,26 @@
+/* font-family: "RobotoRegular"; */
+@font-face {
+	font-family: "FiraSansBoldItalic";
+	src: url("../fonts/FiraFonts3111/FiraSans3111/WEB/FiraSans-BoldItalic.eot");
+	src: url("../fonts/FiraFonts3111/FiraSans3111/WEB/FiraSans-BoldItalic.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/FiraFonts3111/FiraSans3111/WEB/FiraSans-BoldItalic.woff") format("woff"),
+	url("../fonts/FiraFonts3111/FiraSans3111/WEB/FiraSans-BoldItalic.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "FiraSansBold";
+	src: url("../fonts/FiraFonts3111/FiraSans3111/WEB/FiraSans-Bold.eot");
+	src: url("../fonts/FiraFonts3111/FiraSans3111/WEB/FiraSans-Bold.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/FiraFonts3111/FiraSans3111/WEB/FiraSans-Bold.woff") format("woff"),
+	url("../fonts/FiraFonts3111/FiraSans3111/WEB/FiraSans-Bold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+
+@font-face {
+    font-family:"DidactGothic";
+    src: url("../fonts/DidactGothic.ttf") /* TTF file for CSS3 browsers */
+}
